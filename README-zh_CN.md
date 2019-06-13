@@ -2,6 +2,8 @@
 
 使用flutter展示一个炫酷的list
 
+![awesomelist]('./screenshot/awesomelist.jpg')
+
 [English](./README.md) | 简体中文
 
 ## 进度

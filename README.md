@@ -2,6 +2,8 @@
 
 A new Flutter project to show a awesome list.
 
+English | [简体中文](./README-zh_CN.md)
+
 ## TODO
 
 - [x] transparent appBar

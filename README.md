@@ -2,7 +2,7 @@
 
 A new Flutter project to show a awesome list.
 
-<img src="https://github.com/xch1029/awesomelist/blob/master/screenshot/awesomelist.jpg?raw=true" width="300">
+<img src="https://github.com/xch1029/awesomelist/blob/master/screenshot/awesomeList.gif?raw=true">
 
 English | [简体中文](./README-zh_CN.md)
 

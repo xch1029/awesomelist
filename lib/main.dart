@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:awesome_list/widgets/home.dart';
+import 'package:awesome_list/views/home.dart';
 
 void main() => runApp(MyApp());
 

@@ -2,7 +2,7 @@
 
 A new Flutter project to show a awesome list.
 
-![awesomelist]('./screenshot/awesomelist.jpg')
+![awesomelist]('https://github.com/xch1029/awesomelist/blob/master/screenshot/awesomelist.jpg')
 
 English | [简体中文](./README-zh_CN.md)
 

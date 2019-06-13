@@ -2,7 +2,7 @@
 
 使用flutter展示一个炫酷的list
 
-![awesomelist]('./screenshot/awesomelist.jpg')
+![awesomelist]('https://github.com/xch1029/awesomelist/blob/master/screenshot/awesomelist.jpg')
 
 [English](./README.md) | 简体中文
 

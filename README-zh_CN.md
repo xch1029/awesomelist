@@ -2,8 +2,7 @@
 
 使用flutter展示一个炫酷的list
 
-<img src="https://github.com/xch1029/awesomelist/blob/master/screenshot/awesomelist.jpg" width="600">
-
+<img src="https://github.com/xch1029/awesomelist/blob/master/screenshot/awesomelist.jpg?raw=true" width="300">
 [English](./README.md) | 简体中文
 
 ## 进度

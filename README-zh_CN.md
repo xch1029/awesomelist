@@ -1,6 +1,6 @@
 # 炫酷的list展示
 
-使用flutter展示一个炫酷的list
+使用flutter展示一个炫酷的list [教程](http://jser.tech/2019/06/13/flutter-awesome-list/)
 
 <img src="https://github.com/xch1029/awesomelist/blob/master/screenshot/awesomeList.gif?raw=true">
 

@@ -2,7 +2,7 @@
 
 使用flutter展示一个炫酷的list [教程](http://jser.tech/2019/06/13/flutter-awesome-list/)
 
-<img src="https://github.com/xch1029/awesomelist/blob/master/screenshot/awesomeList.gif?raw=true">
+<img src="http://pt2k23f08.bkt.clouddn.com/awesomeList.gif">
 
 [English](./README.md) | 简体中文
 
